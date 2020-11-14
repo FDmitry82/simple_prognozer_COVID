@@ -1,0 +1,16 @@
+asgiref==3.2.10
+Django==3.0.7
+<<<<<<< Updated upstream
+pkg-resources==0.0.0
+=======
+idna==2.10
+numpy==1.19.0
+pandas==1.0.5
+PyGithub==1.51
+PyJWT==1.7.1
+python-dateutil==2.8.1
+>>>>>>> Stashed changes
+pytz==2020.1
+sqlparse==0.3.1
+pandas==1.0.5
+PyGithub==1.51
